@@ -50,6 +50,7 @@ function App() {
           </tr>
         </tbody>
       </table>
+      <p class="text-right ">So I started to walk into the water...</p>
     </div>
   );
 }
