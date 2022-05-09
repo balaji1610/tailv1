@@ -44,6 +44,23 @@ function App() {
         <p>Maybe we can live without...</p>
         <p>Look. If you think this is...</p>
       </div>
+      <hr />
+      <section className="Flexbox & Grid">
+        <div class="flex flex-row bg-purple-200">
+          <div class="basis-1/4">01</div>
+          <div class="basis-1/4">02</div>
+          <div class="basis-1/2">03</div>
+        </div>
+
+        <div class="flex  flex-row  px-9 bg-blue-100">
+          <div class="mt-8  px-9">01</div>
+          <div class="mt-8  px-9">02</div>
+          <div class="mt-8  px-9">03</div>
+        </div>
+      </section>
+      <button class="rounded-full bg-yellow-600 text-white px-7 m-4">
+        Save Changes
+      </button>
     </div> // end
   );
 }

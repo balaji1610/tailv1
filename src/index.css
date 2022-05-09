@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.align__image {
+  width: 100px;
+  height: 75px;
+  border-radius: 5px;
+}
+
 /* https://stackoverflow.com/questions/47607602/how-to-add-a-tailwind-css-rule-to-css-checker */
 body {
   margin: 0;
