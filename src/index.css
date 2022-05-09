@@ -8,6 +8,10 @@
   border-radius: 5px;
 }
 
+.btnAlign {
+  color: antiquewhite;
+}
+
 /* https://stackoverflow.com/questions/47607602/how-to-add-a-tailwind-css-rule-to-css-checker */
 body {
   margin: 0;

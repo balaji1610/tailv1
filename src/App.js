@@ -58,9 +58,10 @@ function App() {
           <div class="mt-8  px-9">03</div>
         </div>
       </section>
-      <button class="rounded-full bg-yellow-600 text-white px-7 m-4">
+      <button class="rounded-full bg-yellow-600 text-white px-7 m-4 ">
         Save Changes
       </button>
+      <hr />
     </div> // end
   );
 }
