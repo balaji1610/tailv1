@@ -34,4 +34,16 @@ code {
     box-shadow: theme("boxShadow.xl");
     color: #ffffff;
   }
+
+  .Nav__list {
+    padding: 25px;
+  }
+  .Image__align {
+    height: 76px;
+    width: 92px;
+    border-radius: 20px;
+  }
+  .Nav__Parent {
+    background-color: black;
+  }
 }
